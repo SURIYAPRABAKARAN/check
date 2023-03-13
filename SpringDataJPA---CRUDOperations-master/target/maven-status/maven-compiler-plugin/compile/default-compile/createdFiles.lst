@@ -1,0 +1,3 @@
+com\ramesh\springdata\product\ProductdataApplication.class
+com\ramesh\springdata\product\entities\Product.class
+com\ramesh\springdata\product\repos\ProductRepository.class
